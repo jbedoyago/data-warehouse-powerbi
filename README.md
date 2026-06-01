@@ -50,7 +50,7 @@ ElectroHogar S.A.S. almacenaba información en múltiples archivos CSV, generand
 
 ---
 
-# 🗄️ Etapa 2: Implementación del Data Warehouse
+# Etapa 2: Implementación del Data Warehouse
 
 
 ## Modelo Dimensional
@@ -66,7 +66,7 @@ ElectroHogar S.A.S. almacenaba información en múltiples archivos CSV, generand
 
 ---
 
-# 📈 Etapa 3: Visualización y Análisis
+# Etapa 3: Visualización y Análisis
 
 ## Dashboard principal
 
